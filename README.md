@@ -6,7 +6,7 @@ Abstract: The widespread sharing of facial images on social media platforms has 
 # The Dataset
 We have used the MTF data set which contains 5246 images with a distinct distribution of celebrities' image faces that emerged across different labels.
 
-# Get the Dataset
+Get the Dataset
 The MTF data set can be accessed through the following link
 
 https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-task_faces_mtf_dataset
@@ -14,10 +14,11 @@ https://sobigdata.d4science.org/catalogue-sobigdata?path=/dataset/multi-task_fac
 # Minors Dataset
 Along with that we have also compiled a dataset of under-age public figures to add more images to the MTF dataset.
 
-# Get the Dataset
+Get the Dataset
 The minors dataset can be accessed through the following link
 
-To Execute the code please follow these steps
+
+#To Execute the code please follow these steps
 
 # 1. Install the Required packages and libraries
       Provided in the Requirements.txt file
