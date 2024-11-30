@@ -17,8 +17,9 @@ Along with that we have also compiled a dataset of under-age public figures to a
 Get the Dataset
 The minors dataset can be accessed through the following link
 
+https://drive.google.com/drive/folders/1FaUx_nDxKmz_baxsC5C7pTT8_w2sGNI0?usp=sharing
 
-#To Execute the code please follow these steps
+# To Execute the code please follow these steps
 
 # 1. Install the Required packages and libraries
       Provided in the Requirements.txt file
