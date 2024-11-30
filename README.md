@@ -3,7 +3,7 @@ Perceptually Robust Iterative Similarity Momentum Attack
 
 Abstract: The widespread sharing of facial images on social media platforms has enabled unauthorized facial recognition (FR) systems to systematically track and profile individuals without their consent. We introduce PRISMA (Perceptually Robust Iterative Similarity Momentum Attack), whose artificial intelligence contribution is a novel two-stage adversarial attack framework that combines momentum-based optimization with perceptual constraints. The first stage computes robust target features across multiple classes, while the second stage uses these features along with momentum-based optimization to generate visually imperceptible perturbations. The engineering application of PRISMA is privacy protection against unauthorized FR systems. Our empirical evaluation reveals a critical vulnerability in existing protection methods: they can be circumvented through reverse attacks that achieve recognition rates up to 74.64\%. In contrast, PRISMA significantly outperforms state-of-the-art methods by reducing FR accuracy to below 26.28\% while maintaining high perceptual quality (PSNR-HVS-M of 35.82 dB). Our method demonstrates strong transferability across different model architectures and commercial APIs, which makes it a practical solution for protecting users' privacy.
 
-# The Dataset
+# MTF Dataset
 We have used the MTF data set which contains 5246 images with a distinct distribution of celebrities' image faces that emerged across different labels.
 
 Get the Dataset
